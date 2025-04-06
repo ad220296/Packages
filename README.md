@@ -116,5 +116,3 @@ END;
 
 ---
 
-📁 Zum Beispiel-Repo für Packages:
-👉 [https://github.com/ad220296/Packages](https://github.com/ad220296/Packages)
